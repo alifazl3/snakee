@@ -1,6 +1,6 @@
 # snakee
 
-## this project developed with no AI
+## this project developed without AI
 
 this project was an exercise to code like a real developer
 even this read me file written by human being and obviously it may contain errors
@@ -8,6 +8,17 @@ even this read me file written by human being and obviously it may contain error
 
 this code may help you to understand how recursive codes work and what is dfs
 
+## how to play?
+
+eat **reds** to **grow**
+
+**do not** touch dark blue cells
+
+go to light blue cell to **win**
+
+move with `arrow` keys
+
+press `b` to try to solve level
 
 ## tech
 
