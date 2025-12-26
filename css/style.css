@@ -1,0 +1,48 @@
+body{
+  text-align: center;
+}
+
+#game{
+  display: inline-block;
+}
+
+.cell{
+  width: 20px;
+  height: 20px;
+  border: 1px solid black;
+}
+.cellRow{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  align-content: center;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.block{
+  background-color: #895129;
+}
+
+.snake{
+  background-color: #4fb62b;
+}
+
+.snakeHead{
+  background-color: #4fb62b;
+}
+
+.apple{
+  background-color: #b62b2b;
+}
+.poison{
+  background-color: #1d3880;
+}
+
+.dead{
+  opacity: 10%;
+}
+
+.portal{
+    background-color: #00f1ff;
+}
